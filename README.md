@@ -22,7 +22,7 @@
 
 ### main.py
     This is the main file for running the above scripts
-    To build the model we have used:
+    To build the model I have used:
       1) KNeighborsRegressor
       2) SupportVectorRegressor
       3) RandomForestRegressor
